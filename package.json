@@ -1,10 +1,11 @@
 {
   "name": "301-lab-08",
   "version": "1.0.0",
-  "description": "City Explorer",
+  "description": "**Author**: Leo Kuhorev, Noah Rhodes, Diana Kim, Valerie Sobol",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
